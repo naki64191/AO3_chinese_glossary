@@ -11,6 +11,7 @@ Edogawa Ranpo = 江户川 乱步
 Kunikida Doppo = 国木田 独步
 Dazai Osamu = 太宰 治
 Yosano Akiko = 与谢野 晶子
+Izumi Kyouka = 泉鏡花
 Tanizaki Junichiro = 谷崎 潤一郎
 Tanizaki Naomi = 谷崎 直美
 Miyazawa Kenji = 宫泽 贤治
@@ -130,4 +131,5 @@ Kancho = 社长
 Shuryo = 首领
 
 // 禁翻词条区
+
 Q
