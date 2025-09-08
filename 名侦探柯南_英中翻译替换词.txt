@@ -1,0 +1,195 @@
+维护者：Naki64191
+版本号：1.0.6
+更新时间：2025-09-08
+
+词条
+
+# 注意：姓氏Morofushi有两位角色，请勿以姓氏单独对应高明或景光！
+
+// 主要角色
+Kudou Shinichi = 工藤 新一
+Edogawa Conan = 江户川 柯南 
+Mouri Ran = 毛利 兰
+Suzuki Sonoko = 铃木 园子
+Mouri Kogorou = 毛利 小五郎
+Haibara Ai = 灰原 哀
+Agasa Hiroshi = 阿笠 博士
+
+// 亲友团
+Hattori Heiji = 服部 平次
+Toyama Kazuha = 远山 和叶
+Sera Masumi = 世良 真纯
+
+// 少年侦探团
+Ayumi Yoshida = 吉田 步美
+Mitsuhiko Tsuburaya = 圆谷 光彦
+Genta Kojima = 小岛 元太
+
+// 黑衣组织
+Karasuma Renya = 乌丸莲耶
+Gin = 琴酒
+Kurosawa Jin = 黑泽 阵
+Rum = 朗姆
+Wakita Kanenori = 脇田 兼則
+Vermouth = 贝尔摩德
+Sharon Vineyard = 莎朗·温亚德
+Chris Vineyard = 克莉丝·温亚德
+Vodka = 伏特加
+Uozuka Saburo= 魚塚 三郎
+Curacao = 库拉索
+Chianti = 基安蒂
+Korn = 科恩
+Pisco = 皮斯科
+Masuyama Kenzo = 枡山 宪三
+Irish = 爱尔兰
+Calvados = 卡尔瓦多斯
+Tequila = 龙舌兰
+Pinga = 宾加
+Miyano Elena = 宫野 艾莲娜
+Miyano Atsushi = 宫野 厚司
+Miyano Shiho = 宫野 志保
+Miyano Akemi = 宫野 明美
+Kusuda Rikumichi = 楠田 陆道
+Numabuchi Kiichiro = 沼渊 己一郎
+Hara Yoshiaki = 原 佳明
+
+// 卧底
+Bourbon = 波本
+Amuro Tooru = 安室 透
+Scotch = 苏格兰
+Rye = 莱伊
+Moroboshi Dai = 诸星 大
+Okiya Subaru = 冲矢 昴
+Kir = 基尔
+Mizunashi Rena = 水无 怜奈
+Hondo Hidemi = 本堂 瑛海
+Isan Hondo = 伊森·本堂
+Stout = 司陶特
+Aquavit = 阿夸维特
+Riesling = 雷司令
+Leon Buchholz = 利昂‧布赫茲
+Sherry = 雪莉
+
+// 警校五人組
+Furuya Rei = 降谷 零
+Morofushi Hiromitsu = 诸伏景光
+Matsuda Jinpei = 松田 阵平
+Hagiwara Kenji = 萩原 研二
+Date Wataru = 伊達 航
+
+// 日本警方
+Megure Juzo = 目暮 十三
+Takagi Wataru = 高木 渉
+Satou Miwako = 佐藤 美和子
+Shiratori Ninzaburo = 白鸟 任三郎
+Yamamura Misao = 山村 操
+Chiba Isshin = 千叶 和伸
+Miike Naeko = 三池 苗子
+Miyamoto Yumi = 宫本 由美
+Uehara Yui = 上原 由衣
+Yamato Kansuke = 大和 敢助
+Morofushi Takaaki = 诸伏高明
+Hagiwara Chihaya = 萩原 千速
+Yokomizo Sango = 横沟 参悟
+Yokomizo Jugo = 横沟 重悟
+
+// 公安
+Kuroda Hyoe = 黑田 兵卫
+Kazami Yuya = 風见 裕也
+
+// FBI
+Akai Shuichi = 赤井 秀一
+Jodie Starling = 茱蒂·斯泰琳
+James Black = 詹姆斯·布莱克
+Andre Camel = 安德烈·卡梅尔
+
+// 其他角色
+Kisaki Eri = 妃 英理
+Suzuki Shiro = 铃木 史郎
+Suzuki Tomoko = 铃木 朋子
+Suzuki Ayako = 铃木 绫子
+Suzuki Jiroukichi = 铃木 次郎吉
+Makoto Kyogoku = 京极 真
+Araide Tomoaki = 新出 智明
+Kobayashi Sumiko = 小林 澄子
+Wakasa Rumi = 若狭 留美
+Rachel Asaka = 瑞秋·淺香
+Ooka Momiji = 大冈 紅叶
+Iori Muga = 伊织 无我
+Okita Soji = 冲田 总司
+Kudo Yusaku = 工藤优作
+Kudo Yukiko = 工藤 有希子
+Akai tsutomu = 赤井务武
+Akai Mearii = 赤井 玛丽
+Akai Mary = 赤井 玛丽
+Haneda Shukichi = 羽田 秀吉
+Akai Shukichi = 赤井 秀吉
+Haneda Koji = 羽田 浩司
+Hondo Eisuke = 本堂 瑛祐
+Enomoto Azusa = 榎本 梓
+Kuriyama Midori = 栗山 绿
+Okino Yoko = 冲野 洋子
+Akagi Hideo = 赤木 英雄
+Uemura Naoki = 上村 直树
+Higo Ryūsuke = 比护 隆佑
+Itakura Suguru = 板仓 卓
+Asai Narumi = 浅井 成实
+Aso Seiji = 麻生 成实
+Koshimizu Natsuki = 越水七槻
+
+// 怪盗基德
+Kaito Kid = 怪盗基德
+Kuroba Kaito = 黑羽 快斗
+Konosuke Jii = 寺井 黄之助
+Aoko Nakamori = 中森 青子
+Koizumi Akako = 小泉 红子
+Ginzo Nakamori = 中森 银三
+Kuroba Toichi = 黑羽 盗一
+Kuroba Chikage = 黑羽 千影
+
+// 其他名词
+Night Baron = 暗夜男爵
+Kamen Yaiba = 假面超人
+
+通用词条
+Detective = 侦探
+Criminal = 犯人
+Case = 案件
+Murder = 杀人
+Police = 警察
+Investigation = 调查
+Clue = 线索
+Victim = 受害者
+Suspect = 嫌疑人
+Kidnap = 绑架
+Explosion = 爆炸
+Poison = 毒药
+Disguise = 變裝
+Alibi = 不在场证明
+Black Organization = 黑衣组织
+Morofushi = 諸伏（不对应诸伏高明或高明，勿单独翻译高明）
+
+// 地点
+Teitan High School = 帝丹高中
+Teitan Elementary School = 帝丹小学
+Beika City = 米花市
+Beika Town = 米花町
+Poirot Cafe = 波洛咖啡庁
+Mouri Detective Agency = 毛利侦探事务所
+Haido City Hospital = 杯戶市医院
+
+//昵称
+Zero = 零
+Hiro = 景
+Hagi = 萩
+
+// 常见误译
+
+
+禁翻词条
+APTX 4869
+Zero
+Hiro
+Hagi
+
+Hiro
